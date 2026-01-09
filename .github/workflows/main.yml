@@ -25,6 +25,7 @@ jobs:
           # pip install requests
           # pip install jsonschema
           pip install -r requirements.txt
+          pip install -r simple-front-python-master/requirements.txt
 
       # 4️⃣ pytest 실행
       - name: 피카츄-파이테스트 실행
