@@ -1,7 +1,7 @@
 name: 피카츄-저장소에 푸시될 때마다 테스트 실행
 
 on:
-  push:   # 모든 브랜치에서 push 시 실 행
+  push:   # 모든 브랜치에서 push 시 실행
 
 jobs:
   test-pikacu:
