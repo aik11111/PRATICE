@@ -4,7 +4,7 @@ import requests
 #     """
 #     로컬 API(/hello) GET 테스트
 #     """
-#     url = f"{base_url_local}/hello"
+#     url = f"{base_url_local}/hell o"
 
 #     response = requests.get(url)
 
